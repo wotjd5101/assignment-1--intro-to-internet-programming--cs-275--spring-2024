@@ -1,14 +1,14 @@
-#title {
+.title {
   height: 200px;
   display: flex;
-  border: 2px solid #e5e6dd;
+  border: 2px solid green;
   align-items: center;
   width: 1000px ;
   font-size: 28px;
   text-align: center;
   justify-content: center;
   margin: 20px auto;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 .paragraph {
   font-size: 18px;
